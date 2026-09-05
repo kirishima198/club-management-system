@@ -1,0 +1,9 @@
+target/
+node_modules/
+dist/
+club-server/src/main/resources/static/
+*.log
+.idea/
+.vscode/
+*.iml
+.trae/
